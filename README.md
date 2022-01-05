@@ -1,5 +1,5 @@
 # UEE-Assesment
-Design interfaces for SLIIT Cafteria mobile application.
+Design interfaces for SLIIT Cafteria mobile application. This is a classroom activity in our module User Experience Engineering.
 
 ![START PAGE](https://user-images.githubusercontent.com/68680779/148161051-f765bbce-0008-4a2e-bb3a-f49cfea53853.png)
 ![LOGIN PAGE](https://user-images.githubusercontent.com/68680779/148161044-77ae8bad-cdc1-4c43-85e4-9b8700f6481e.png)
